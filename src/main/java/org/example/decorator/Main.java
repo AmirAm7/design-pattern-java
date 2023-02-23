@@ -17,5 +17,9 @@ public class Main {
 		AddonI5Processor addonI5Processor = new AddonI5Processor(addonTouchbar);
 		System.out.println("addonI5Processor.getDescription(); = " + addonI5Processor.getDescription());
 		System.out.println("addonI5Processor.getPrice() = " + addonI5Processor.getPrice());
+		
+		AddonI5Processor addonI5Processor1 = new AddonI5Processor(addonTouchbar);
+		System.out.println("addonI5Processor1.getCountOfProcessor() = " + addonI5Processor1.getCountOfProcessor());
+
 	}
 }

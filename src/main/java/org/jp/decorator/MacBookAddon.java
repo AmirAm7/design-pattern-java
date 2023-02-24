@@ -1,4 +1,4 @@
-package org.example.decorator;
+package org.jp.decorator;
 
 
 import lombok.Getter;
@@ -8,7 +8,6 @@ import lombok.Setter;
 @Getter
 public abstract class MacBookAddon implements MacBook{
 	private MacBook macBook;
-
 	public MacBookAddon(MacBook macBook) {
 		this.macBook = macBook;
 	}

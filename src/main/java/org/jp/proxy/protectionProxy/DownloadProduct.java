@@ -1,4 +1,4 @@
-package org.example.proxy.protectionProxy;
+package org.jp.proxy.protectionProxy;
 
 public class DownloadProduct implements  Downloadable{
 

@@ -1,4 +1,4 @@
-package org.example.proxy.protectionProxy;
+package org.jp.proxy.protectionProxy;
 
 public class DownloadProductProxy implements  Downloadable{
 	private  final int NUM_DOWNLOAD_ALLOWED = 3;

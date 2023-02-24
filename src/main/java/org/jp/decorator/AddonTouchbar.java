@@ -1,4 +1,4 @@
-package org.example.decorator;
+package org.jp.decorator;
 
 public class AddonTouchbar extends MacBookAddon{
 	public AddonTouchbar(MacBook macBook) {

@@ -1,4 +1,4 @@
-package org.example.decorator;
+package org.jp.decorator;
 
 public class AddonI5Processor extends AddonTouchbar{
 	public AddonI5Processor(MacBook macBook) {

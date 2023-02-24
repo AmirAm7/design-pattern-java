@@ -1,4 +1,4 @@
-package org.example.proxy.protectionProxy;
+package org.jp.proxy.protectionProxy;
 
 import lombok.Getter;
 import lombok.Setter;

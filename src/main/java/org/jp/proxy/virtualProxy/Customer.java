@@ -1,4 +1,4 @@
-package org.example.proxy.virtualProxy;
+package org.jp.proxy.virtualProxy;
 
 import lombok.Getter;
 import lombok.Setter;

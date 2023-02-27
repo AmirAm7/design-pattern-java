@@ -1,4 +1,4 @@
-package org.jp.Strategy;
+package org.jp.Strategy.exOne;
 
 public class Main {
 
@@ -8,5 +8,4 @@ public class Main {
 		investment1.setChosenStrategy(new GoldInvestment());
 		investment1.makeInvestment();
 	}
-
 }

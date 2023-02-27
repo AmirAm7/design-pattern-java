@@ -1,4 +1,4 @@
-package org.jp.Strategy;
+package org.jp.Strategy.exOne;
 
 public class CryptoInvestment implements  InvestmentStrategy{
 	@Override

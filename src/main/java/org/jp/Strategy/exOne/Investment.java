@@ -1,7 +1,7 @@
-package org.jp.Strategy;
+package org.jp.Strategy.exOne;
 
 public class Investment {
-	private double investMoney;
+	private final double investMoney;
 	private boolean talkedToBankEmployee = false;
 	private InvestmentStrategy chosenStrategy;
 

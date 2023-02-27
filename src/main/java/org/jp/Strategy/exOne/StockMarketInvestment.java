@@ -1,4 +1,4 @@
-package org.jp.Strategy;
+package org.jp.Strategy.exOne;
 
 public class StockMarketInvestment implements InvestmentStrategy{
 

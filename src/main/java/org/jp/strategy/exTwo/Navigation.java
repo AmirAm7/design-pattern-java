@@ -1,4 +1,4 @@
-package org.jp.Strategy.exTwo;
+package org.jp.strategy.exTwo;
 import java.util.ArrayList;
 
 public class Navigation {

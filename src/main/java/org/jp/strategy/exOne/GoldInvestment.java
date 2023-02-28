@@ -1,4 +1,4 @@
-package org.jp.Strategy.exOne;
+package org.jp.strategy.exOne;
 
 public class GoldInvestment implements  InvestmentStrategy{
 

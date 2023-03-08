@@ -16,3 +16,8 @@
 >> DISADVANTAGES:
     . High number of observers
     . Subject's source code does not show which observers are informed exactly
+
+------------------------------------------------------------------------------------------------------------------------------
+
+>> Mithilfe des Observer Pattern definiert man eine Abhängigkeit zwischen einem und beliebig vielen anderen Objekten, 
+> sodass die Änderung des Zustands eines Objekts dazu führt, dass alle abhängigen Objekte automatisch benachrichtigt und aktualisiert werden.

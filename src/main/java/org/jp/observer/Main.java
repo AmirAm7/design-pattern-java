@@ -18,5 +18,4 @@ public class Main {
 		sportNewsletter.setCurrentNewsletter(new Newsletter("Winter Olympics: \t", "New topic about olympic"));
 
 	}
-
 }

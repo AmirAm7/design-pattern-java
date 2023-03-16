@@ -1,5 +1,8 @@
 package org.jp.decorator;
 
+/**
+ * decorator pattern is used to add new functionality to an existing object
+ */
 public class Main {
 	public static void main(String[] args) {
 

@@ -1,5 +1,8 @@
 package org.jp.strategy.exTwo;
-
+/**
+ * the Route class that will be used by the strategies
+ * to calculate the best route
+ */
 
 import lombok.Getter;
 import lombok.Setter;

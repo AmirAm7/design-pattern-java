@@ -12,3 +12,10 @@
 
 >>DISADVANTAGES:
 > Call of a base functionality has to be executed twice (decorator is just a wrapper)
+
+
+
+----------------------------------------------------
+
+>> Mithilfe des Decorator Pattern hat man eine flexible Alternative zur Unterklassenbildung, 
+> um eine Klasse mit zusätzlichen Funktionalitäten zu erweitern.

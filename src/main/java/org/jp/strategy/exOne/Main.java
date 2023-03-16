@@ -1,5 +1,8 @@
 package org.jp.strategy.exOne;
 
+/**
+ * Strategy pattern is a behavioral design pattern that allows selecting an algorithm at runtime.
+ */
 public class Main {
 
 	public static void main(String[] args) {

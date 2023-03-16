@@ -1,7 +1,10 @@
 package org.jp.strategy.exTwo;
 
 import java.util.ArrayList;
-
+/**
+ * the class that will be used by the strategies
+ * to calculate the shortest distance
+ */
 public class ShortestDistance implements  RouteStrategy {
 	@Override
 	public void calculateRoute(ArrayList<Route> possibleRoutes) {

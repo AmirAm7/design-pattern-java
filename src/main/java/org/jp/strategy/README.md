@@ -14,3 +14,8 @@
     • Extensibility
     • Algorithms can be changed at runtime
     • Algorithms are encapsulated in their own classes
+
+
+--------------------------------------------------------------
+
+> Durch das Strategy Pattern wird eine Familie von Algorithmen definiert, die einzeln gekapselt und austauschbar sind. Somit kann zur Laufzeit der gewünschte Algorithmus ausgeführt werden.
